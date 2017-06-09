@@ -2,7 +2,7 @@
 
 Bem vindo ao repositório da apresentação de Machine Learning com Python do 6º encontro de Machine Learning de Porto Alegre.
 
-![splash](https://github.com/henryzord/ml-meetup-python-notes/images/splash.png)
+![splash](images/splash.png)
 
 Neste repositório você encontrará todo o material utilizado durante a palestra:
 
